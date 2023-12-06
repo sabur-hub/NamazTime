@@ -1,0 +1,6 @@
+:
+
+				 var curr_namoz_time_az  				= "18:40:00";
+				 var curr_namoz_time_to  				= "05:53:00";
+				 var next_namoz_time_az  				= "05:55:00";
+				 var next_namoz_time_to  				= "07:24:00";

@@ -1,0 +1,10 @@
+:
+				
+
+			/* Namaz Time according Central Mosque of Dushanbe and others for Today*/
+				 var date_imruz         	= "05-12-2023";
+				 var bomdod_from_imruz  	= "06:37";
+				 var peshin_from_imruz  	= "12:40";
+				 var asr_in_masjid_imruz  = "15:35";
+				 var shom_from_imruz    	= "17:12";   
+				 var khuftan_from_imruz 	= "18:41";

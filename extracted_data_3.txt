@@ -1,0 +1,9 @@
+:
+			
+				 /* Время Сахархури и ИФтор для Сегодня и Завтра, берем из БД */
+					  /*var date_imruz_ramazon = "05-12-2023";  
+						var imruz_saharhuri_to = "05:54";
+						var imruz_iftoz_az     = "17:10";
+						var date_pagoh_ramazon = "06-12-2023";
+						var pagoh_saharhuri_to = "05:55";
+						var pagoh_iftoz_az     = "17:10";*/

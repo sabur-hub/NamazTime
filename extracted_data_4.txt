@@ -1,0 +1,49 @@
+:
+				
+
+			/* Namaz Time for Today*/
+				 var date_imruz         = "05-12-2023"  
+				 var bomdod_from_imruz  = "05:54";
+				 var bomdod_to_imruz    = "07:23"  
+				 var peshin_from_imruz  = "12:40"   
+				 var peshin_to_imruz    = "15:11"  
+				 var asr_from_imruz     = "15:12"   
+				 var asr_to_imruz       = "16:52"  
+				 var forbidden_time_from_imruz = "16:53"   
+				 var forbidden_time_to_imruz = "17:09"  
+				 var shom_from_imruz    = "17:10"   
+				 var shom_to_imruz      = "17:50"  
+				 var khuftan_from_imruz = "18:40"   
+				 var khuftan_to_imruz   = "05:53"     
+			
+			
+			/* Namaz Time for Tomorrow*/
+				 var date_pagoh         = "06-12-2023"  
+				 var bomdod_from_pagoh  = "05:55"  
+				 var bomdod_to_pagoh    = "07:24"  
+				 var peshin_from_pagoh  = "12:40"   
+				 var peshin_to_pagoh    = "15:11"  
+				 var asr_from_pagoh     = "15:12"   
+				 var asr_to_pagoh       = "16:52"  
+				 var forbidden_time_from_pagoh = "16:53"   
+				 var forbidden_time_to_pagoh = "17:09"  
+				 var shom_from_pagoh    = "17:10"   
+				 var shom_to_pagoh      = "17:50"  
+				 var khuftan_from_pagoh = "18:40"   
+				 var khuftan_to_pagoh   = "05:54"  
+			 
+			
+			/* Namaz Time for After-Tomorrow*/
+				 var date_pagohi_digar         = "07-12-2023"  
+				 var bomdod_from_pagohi_digar  = "05:55"  
+				 var bomdod_to_pagohi_digar    = "07:24"  
+				 var peshin_from_pagohi_digar  = "12:40"   
+				 var peshin_to_pagohi_digar    = "15:12"  
+				 var asr_from_pagohi_digar     = "15:13"   
+				 var asr_to_pagohi_digar       = "16:53"  
+				 var forbidden_time_from_pagohi_digar = "16:54"   
+				 var forbidden_time_to_pagohi_digar = "17:10"  
+				 var shom_from_pagohi_digar    = "17:11"   
+				 var shom_to_pagohi_digar      = "17:51"  
+				 var khuftan_from_pagohi_digar = "18:41"   
+				 var khuftan_to_pagohi_digar   = "05:54"
